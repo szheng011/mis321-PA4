@@ -1,0 +1,24 @@
+.banner{
+    background-color: #660000;
+    color: white;
+    margin-top: 0px;
+    text-align: center;
+    padding: 50px;
+}
+
+.btn{
+    background-color: #660000;
+    color: white;
+    margin: 15px 15px;
+    text-align: center;
+    display: inline-block;
+    padding: 6px;
+}
+
+.pinned {
+    background-color: #ffff99; /* This is a light yellow color, you can change it to your preferred highlight color */
+}
+
+.highlighted {
+    background-color:#ffff99; /* Change this to the desired highlight color */
+}
